@@ -1,2 +1,6 @@
 export { default as PHome } from './PHome'
 export { default as PAbout } from './PAbout'
+export { default as PCourses } from './PCourses'
+export { default as PClasses } from './PClasses'
+export { default as PTeams } from './PTeams'
+export { default as PUsers } from './PUsers'
